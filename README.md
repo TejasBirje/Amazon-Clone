@@ -1,1 +1,1 @@
-Made while learning HTML and CSS.
+Only Frontend
